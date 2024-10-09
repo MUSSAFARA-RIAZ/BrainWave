@@ -1,0 +1,7 @@
+// JS Mastery 
+1. Go to the tailwind documentation 
+2. copy vite project command 
+3. modify tailwind.config.js or replace it with readme js mastery file 
+4. settings.json is used when we work as a team. Ensure that everyone should be on same page
+5. Similarly for index.css. 
+
